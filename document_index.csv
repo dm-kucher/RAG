@@ -1,9 +1,0 @@
-document_id,title,format,department
-DOC-100,NDA IT AI Platform,pdf,legal
-DOC-101,NDA LawFirm M&A,pdf,legal
-DOC-102,NDA Medical Research,pdf,medical
-DOC-103,Security Policy,markdown,security
-DOC-104,Incident Response,markdown,compliance
-DOC-105,Employee Access Policy,markdown,hr
-DOC-106,Client Retention Policy,markdown,compliance
-DOC-107,Vendor Management Checklist,markdown,operations
