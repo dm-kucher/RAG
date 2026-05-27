@@ -1,0 +1,10 @@
+id,title,file_name,document_type,department,jurisdiction,keywords,summary
+DOC-001,NDA IT AI Platform,NDA_IT_AI_Platform.pdf,nda,legal,Україна,"MFA, AI, конфіденційність","NDA між DigitalCore Solutions та AI Vision Platform щодо AI-платформи."
+DOC-002,NDA LawFirm M&A,NDA_LawFirm_MA.pdf,nda,m&a,Велика Британія,"due diligence, M&A, compliance","Договір NDA для юридичного due diligence."
+DOC-003,NDA Medical Research,NDA_Medical_Research.pdf,nda,medical,Франція,"клінічні дослідження, медичні дані","Угода про конфіденційність медичних досліджень."
+DOC-004,Security Policy,security_policy.md,policy,security,Україна,"MFA, encryption, logs","Політика інформаційної безпеки компанії."
+DOC-005,Incident Response,incident_response.md,instruction,compliance,Україна,"витік даних, incident, audit","Інструкція реагування на інциденти безпеки."
+DOC-006,Employee Access Policy,employee_access_policy.md,policy,hr,Україна,"roles, access control","Рівні доступу співробітників до документів."
+DOC-007,Client Retention Policy,client_retention_policy.md,policy,compliance,Україна,"retention, deletion","Політика зберігання клієнтських даних."
+DOC-008,Vendor Management Checklist,vendor_management_checklist.md,checklist,operations,Україна,"vendors, MFA, NDA","Checklist для роботи з підрядниками."
+DOC-009,Compliance Audit Report,Compliance_Audit_Report.pdf,report,security,Україна,"audit, MFA, logging","Внутрішній аудит інформаційної безпеки."
